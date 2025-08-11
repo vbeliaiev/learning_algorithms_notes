@@ -1,2 +1,4 @@
 # learning_algorithms_notes
-Notes while learning algorithms and data structure
+
+This repository contains notes on interesting algorithms I have encountered during my learning, mainly for personal use.
+
