@@ -1,0 +1,18 @@
+# Graphs
+
+Top 3 algorithms:
+
+1) Breadth-First Search (BSF) - обход графа в ширину, поиск кратчайшего пути в невзвешенных графах.
+- O(V+E)
+- Queue - FIFO (first in -> first out)
+
+2) Depth-First Search (DFS) - обход в глубину, используется для поиска копмпонент связности циклов.
+- O(V+E)
+- Stack - LIFO (last in -> first out)
+
+3) Dijkstra's Algorithm - поиск кратчайшего пути во взвешенном графе (без отрицательных весов)
+- O((V+E) log V) - with "heap"
+
+Note:
+V (Vertices) - количество вершин (узлов)
+E (Edges) - количество ребер (связей между вершинами)
